@@ -23,6 +23,8 @@ Python3.6 or higher
 ```python test.py```
 
 ## Example Input
+![Screenshot 2022-12-10 at 1 23 57 AM](https://user-images.githubusercontent.com/52108435/206787364-97c9e0d4-eb49-4ffa-9f5f-8370b466061d.png)
 
 
 ## Example output
+![Screenshot 2022-12-10 at 1 24 03 AM](https://user-images.githubusercontent.com/52108435/206787391-b1d83f51-c2b5-4d81-ab8f-9852f543f303.png)
